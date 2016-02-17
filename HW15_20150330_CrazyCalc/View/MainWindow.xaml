@@ -1,0 +1,120 @@
+﻿<Window x:Class="HW15_20150330_CrazyCalc.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Crazy Calculator" Height="350" Width="350" 
+        WindowStartupLocation="CenterScreen" 
+        ResizeMode="NoResize">
+    <Grid Background="BurlyWood">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Button Grid.Row="0" Grid.Column="0" 
+                Background="Bisque" Margin="5,3,5,3"
+                FontSize="16" FontStyle="Italic"
+                Content="Del" Command="{Binding DelPress}"/>
+        <!--Represents "Result" string containing numbers and operation signs-->
+        <TextBlock Grid.Row="0" Grid.Column="1"
+                   Text="{Binding Path=Equatation}"
+                   FontFamily="Arial" FontSize="16" 
+                   HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <Grid Grid.Row="1" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.Resources>
+                <Style TargetType="Button">
+                    <Setter Property="Margin" Value="5,3,5,3"/>
+                    <Setter Property="Background" Value="Bisque"/>
+                    <Setter Property="FontFamily" Value="Arial"/>
+                    <Setter Property="FontSize" Value="16"/>
+                    <Setter Property="FontStyle" Value="Italic"/>
+                    <Setter Property="Command" Value="{Binding ButtonPress}"/>
+                </Style>
+            </Grid.Resources>
+            <!--Each button location in the grid is binded
+            to ButCoord Dictionary from ViewModel-->
+            <!--FIRST COLUMN-->
+            <Button Grid.Column="{Binding Path=ButCoord[1].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[1].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="7" x:Name="btn7"
+                    CommandParameter="7"/>
+            <Button Grid.Column="{Binding Path=ButCoord[2].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[2].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="4" x:Name="btn4"
+                    CommandParameter="4"/>
+            <Button Grid.Column="{Binding Path=ButCoord[3].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[3].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="1" x:Name="btn1"
+                    CommandParameter="1"/>
+            <Button Grid.Column="{Binding Path=ButCoord[4].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[4].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="0" x:Name="btn0"
+                    CommandParameter="0"/>
+            <!--SECOND COLUMN-->
+            <Button Grid.Column="{Binding Path=ButCoord[5].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[5].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="8" x:Name="btn8"
+                    CommandParameter="8"/>
+            <Button Grid.Column="{Binding Path=ButCoord[6].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[6].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="5" x:Name="btn5"
+                    CommandParameter="5"/>
+            <Button Grid.Column="{Binding Path=ButCoord[7].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[7].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="2" x:Name="btn2"
+                    CommandParameter="2"/>
+            <Button Grid.Column="{Binding Path=ButCoord[8].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[8].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="." x:Name="btndot"
+                    CommandParameter="."/>
+            <!--THIRD COLUMN-->
+            <Button Grid.Column="{Binding Path=ButCoord[9].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[9].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="9" x:Name="btn9"
+                    CommandParameter="9"/>
+            <Button Grid.Column="{Binding Path=ButCoord[10].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[10].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="6" x:Name="btn6"
+                    CommandParameter="6"/>
+            <Button Grid.Column="{Binding Path=ButCoord[11].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[11].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="3" x:Name="btn3"
+                    CommandParameter="3"/>
+            <Button Grid.Column="{Binding Path=ButCoord[12].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[12].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="=" x:Name="btnEqual"
+                    CommandParameter="="/>
+            <!--FOURTH COLUMN-->
+            <Button Grid.Column="{Binding Path=ButCoord[13].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[13].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="/" x:Name="btnDiv"
+                    CommandParameter="/"/>
+            <Button Grid.Column="{Binding Path=ButCoord[14].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[14].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="&#215;" x:Name="btnMult"
+                    CommandParameter="*"/>
+            <Button Grid.Column="{Binding Path=ButCoord[15].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[15].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="-" x:Name="btnSub"
+                    CommandParameter="-"/>
+            <Button Grid.Column="{Binding Path=ButCoord[16].X, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Row="{Binding Path=ButCoord[16].Y, UpdateSourceTrigger=PropertyChanged}"
+                    Content="+" x:Name="btnAdd"
+                    CommandParameter="+"/>
+        </Grid>
+    </Grid>
+</Window>

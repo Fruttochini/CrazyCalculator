@@ -1,0 +1,43 @@
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\bin\Debug\HW15_20150330_CrazyCalc.exe.config
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\bin\Debug\HW15_20150330_CrazyCalc.exe
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\bin\Debug\HW15_20150330_CrazyCalc.pdb
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.csprojResolveAssemblyReference.cache
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\View\MainWindow.baml
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\View\MainWindow.g.cs
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\App.g.cs
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc_MarkupCompile.cache
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.g.resources
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.Properties.Resources.resources
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.csproj.GenerateResource.Cache
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.exe
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.pdb
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\bin\Debug\HW15_20150330_CrazyCalc.exe.config
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.exe
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.pdb
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\bin\Debug\HW15_20150330_CrazyCalc.exe
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\bin\Debug\HW15_20150330_CrazyCalc.pdb
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.csprojResolveAssemblyReference.cache
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\View\MainWindow.baml
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\View\MainWindow.g.cs
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\App.g.cs
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc_MarkupCompile.cache
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.g.resources
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.Properties.Resources.resources
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.csproj.GenerateResource.Cache
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\bin\Debug\HW15_20150330_CrazyCalc.exe.config
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.exe
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.pdb
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\bin\Debug\HW15_20150330_CrazyCalc.exe
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\bin\Debug\HW15_20150330_CrazyCalc.pdb
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.csprojResolveAssemblyReference.cache
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\View\MainWindow.baml
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\View\MainWindow.g.cs
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\App.g.cs
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc_MarkupCompile.cache
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.g.resources
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.Properties.Resources.resources
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.csproj.GenerateResource.Cache
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\bin\Debug\HW15_20150330_CrazyCalc.exe.manifest
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\bin\Debug\HW15_20150330_CrazyCalc.application
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.exe.manifest
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW15_20150330_CrazyCalc\HW15_20150330_CrazyCalc\obj\Debug\HW15_20150330_CrazyCalc.application
